@@ -1,0 +1,10 @@
+# Agent-discovery repo: track only the pack below. Ignore the full local app tree.
+*
+!.gitignore
+!README.md
+!AGENTS.md
+!llms.txt
+!agent.md
+!starter.md
+!agents.txt
+!tools.json
