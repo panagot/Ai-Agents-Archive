@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-agents-archive",
+  "version": "1.0.1",
+  "description": "Optional integration with the third-party AI Agents Archive desk at aiagentsarchive.com — browse sealed research catalog via remote MCP. Upload and USDC unlock require explicit user approval; MCP tools return HTTP pointers only.",
+  "author": {
+    "name": "AI Agents Archive",
+    "url": "https://aiagentsarchive.com"
+  },
+  "homepage": "https://aiagentsarchive.com",
+  "repository": "https://github.com/panagot/Ai-Agents-Archive",
+  "license": "MIT"
+}
