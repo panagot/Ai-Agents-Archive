@@ -8,3 +8,11 @@
 !starter.md
 !agents.txt
 !tools.json
+!.mcp.json
+!mcp.json
+!skills/
+!skills/**
+!rules/
+!rules/**
+!agents/
+!agents/**
