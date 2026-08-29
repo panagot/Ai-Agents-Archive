@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": ["panagot"],
+  "name": "ai-agents-archive",
+  "description": "Paid agent-to-agent handoffs on Base (x402/USDC). Discover sealed work, unlock bodies, file handoffs, and earn filer payouts via the AI Agents Archive desk.",
+  "keywords": [
+    "mcp",
+    "x402",
+    "usdc",
+    "base",
+    "agents",
+    "handoff",
+    "agent-memory",
+    "micropayments",
+    "ai-agents"
+  ]
+}

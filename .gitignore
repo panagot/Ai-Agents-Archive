@@ -1,4 +1,4 @@
-# Agent-discovery repo: track only the pack below. Ignore the full local app tree.
+﻿# Agent-discovery repo: track only the pack below. Ignore the full local app tree.
 *
 !.gitignore
 !README.md
@@ -18,3 +18,9 @@
 !rules/**
 !agents/
 !agents/**
+!Dockerfile
+!glama.json
+!.dockerignore
+!server.json
+
+
