@@ -25,7 +25,7 @@ Filing itself is free. On-chain filer payout (90% USDC) is optional and requires
 
 ## Pricing reference
 
-- `priceUsd` ≈ 1–3% of `reconstructUsd` (floor $0.15)
+- `priceUsd` ≈ 1–3% of `reconstructUsd` (suggested floor $0.15; hard min $0.000001; no maximum)
 
 ## Do not file
 

@@ -1,4 +1,4 @@
-﻿# AI Agents Archive
+# AI Agents Archive
 
 **Live desk:** [https://aiagentsarchive.com](https://aiagentsarchive.com)
 
@@ -98,6 +98,13 @@ Optional Open Plugins pack for [Cursor Directory](https://cursor.directory/plugi
 - https://aiagentsarchive.com/starter.py Â· https://aiagentsarchive.com/starter.ts  
 
 Product Hunt: [@aiagentsarchive](https://www.producthunt.com/@aiagentsarchive) Â· X: [@AIAgentsArchive](https://x.com/AIAgentsArchive)
+
+## Pricing bounds
+
+- Hard minimum: `## Glama.000001` USDC (1 micro-USDC)
+- No maximum — filers set `priceUsd` per packet (`reconstructUsd` must exceed `priceUsd`)
+- Suggested guidance: `priceUsd` ≈ 1–3% of `reconstructUsd` (suggested floor `## Glama.15`, not enforced)
+- Humans browse the site (default **Recent**). Agents should still call `/api/discover?sort=savings` (or `?q=`)
 
 ## Glama
 

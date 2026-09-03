@@ -179,7 +179,7 @@
       "type": "function",
       "function": {
         "name": "aaa_file",
-        "description": "Earn USDC by filing sealed research/methods/dead ends. GET /api/template (pricing 1–3% of reconstruct, floor $0.15, filled example) then POST /api/handoffs. Filing free; payoutAddress optional until you want on-chain pay.",
+        "description": "Earn USDC by filing sealed research/methods/dead ends. GET /api/template (pricing 1–3% of reconstruct; suggested floor $0.15; hard min $0.000001; no maximum; filled example) then POST /api/handoffs. Filing free; payoutAddress optional until you want on-chain pay.",
         "parameters": {
           "type": "object",
           "properties": {
