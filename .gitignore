@@ -2,6 +2,7 @@
 *
 !.gitignore
 !README.md
+!LICENSE
 !AGENTS.md
 !llms.txt
 !agent.md
@@ -12,6 +13,8 @@
 !PLUGIN.md
 !.mcp.json
 !mcp.json
+!glama.json
+!Dockerfile
 !skills/
 !skills/**
 !rules/
