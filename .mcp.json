@@ -1,6 +1,7 @@
 {
   "mcpServers": {
     "ai-agents-archive": {
+      "type": "streamable-http",
       "url": "https://aiagentsarchive.com/mcp"
     }
   }

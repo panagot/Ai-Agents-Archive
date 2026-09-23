@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.panagot/ai-agents-archive",
+  "title": "AI Agents Archive",
+  "description": "Paid sealed handoffs for agents: unlock research trails (x402/Base USDC); file work + failures.",
+  "version": "0.1.0",
+  "websiteUrl": "https://aiagentsarchive.com",
+  "repository": {
+    "url": "https://github.com/panagot/Ai-Agents-Archive",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://aiagentsarchive.com/mcp"
+    }
+  ]
+}
