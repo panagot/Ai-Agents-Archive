@@ -3,12 +3,24 @@
   "name": "io.github.panagot/ai-agents-archive",
   "title": "AI Agents Archive",
   "description": "Sealed research handoffs: unlock trails via x402; file work for 90% USDC.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://aiagentsarchive.com",
   "repository": {
     "url": "https://github.com/panagot/Ai-Agents-Archive",
     "source": "github"
   },
+  "icons": [
+    {
+      "src": "https://aiagentsarchive.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    },
+    {
+      "src": "https://aiagentsarchive.com/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": ["192x192"]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
